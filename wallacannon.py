@@ -1,10 +1,12 @@
 import socket, random, time
-import art
+from mods import art, cs
 
 logo = art.logo
+cs = cs.clear()
 try:
     #Create a Socket:
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    cs
     print(logo)
     #define target IP and Port
     ip = input("What is the target IP: ")
@@ -21,4 +23,5 @@ try:
         time.sleep(sleep)
 
 except KeyboardInterrupt:
-    print("\nThe walla have dissassmbled, Program exiting...") 
+    print("\nThe walla have dissassmbled, Program exiting...")
+    exit()
