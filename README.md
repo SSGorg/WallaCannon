@@ -10,7 +10,7 @@ Walla cannon is a simple to use DDoS Proof of Concept.
 4.) Exit the terminal and open a new one.  
 5.) Run: `wallacannon`     
 
-## How to use:  
+## How to use(Post installation):  
 1.) Run the Program: `wallacannon`  
 2.) Enter a target IP Address  
 3.) Enter a target Port  
@@ -19,4 +19,5 @@ Walla cannon is a simple to use DDoS Proof of Concept.
 **Press Ctrl + c to exit the program**
 
 ## Getting help:  
-You can find help for this and any of the SSG Tools on our community discord:
+You can find help for this and any of the SSG Tools on our community discord:  
+  <a href="https://discord.gg/899KQFeAXr"><img src="https://discordapp.com/api/guilds/879757204620726362/widget.png?style=banner3" alt="Discord Server"></a>
